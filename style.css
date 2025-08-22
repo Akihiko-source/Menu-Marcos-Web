@@ -1,0 +1,32 @@
+body {
+  font-family: "Palatino Linotype", "Book Antiqua";
+  line-height: 1.5;
+  background-color: #1a1a1a;
+}
+.navbar {
+  background-color: #0f0f0f !important;
+  border-bottom: 1px solid #3a3a3a;
+}
+.navbar-brand,
+.nav-link {
+  color: #d4af37 !important;
+}
+.nav-item 
+.nav-link {
+    transition: background 0.3s, color 0.3s;
+}
+.nav-item 
+.nav-link:hover {
+    background: #343a40; 
+    color: #ffc107;      
+  
+}
+.footer {
+  background-color: #0f0f0f;
+  color: #a0a0a0;
+  padding: 1.5rem 0;
+  margin-top: 3rem;
+  border-top: 1px solid #3a3a3a;
+}
+
+
